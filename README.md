@@ -1,0 +1,1 @@
+# Sum-and-Average-of-Array-Elements-in-cpp
